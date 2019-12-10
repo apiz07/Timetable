@@ -1,0 +1,38 @@
+body
+{
+text-align: center;
+font-style: italic;
+background-image: url("https://i.redd.it/m77vkpb27qg21.jpg");
+background-repeat: no-repeat;
+background-size: 100% 100%;
+background-attachment: fixed;
+color: blue;
+}
+
+.course-list
+{
+	width: 900px;
+	background-color:#fff;
+	padding: 30px;
+}
+
+.course-box
+{
+	padding-bottom: 30px;
+	width: 100%;
+}
+
+input
+{
+	padding: 0px 20px;
+	width: 300px;
+	height: 40px;
+	font-size: 22px;
+}
+
+button
+{
+	width: 100px;
+	height: 40px;
+	font-size: 22px;
+}
